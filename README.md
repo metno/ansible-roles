@@ -1,0 +1,25 @@
+# MET Norway Ansible Roles
+
+This repository is a list of public roles. In addition it contains templates files for uploading a role to GitHub.
+
+Content:
+
+* `├── CODE_OF_CONDUCT.md` --- Contributor Covenant Code of Conduct.
+* `├── CONTRIBUTING.md` --- Contributing to this project.
+* `├── CONTRIBUTORS.md` --- List of contributors.
+* `├── .github`
+* `│   ├── ISSUE_TEMPLATE.md` --- Template for a new issue.
+* `│   └── PULL_REQUEST_TEMPLATE.md` --- Template for a pull request.
+* `│   └── workflows`
+* `│       └── ansible-lint.yml` --- GitHub Action that performs Ansible linting.
+* `├── LICENSE` --- License file.
+
+## Repositories
+
+It's strongly recommended to follow [MET Ansible Style Guide](https://github.com/metno/ansible-style-guide).
+
+* *Placeholder for first role*
+
+<!---
+# vim: set spell spelllang=en:
+-->
