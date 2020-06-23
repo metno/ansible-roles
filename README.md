@@ -2,7 +2,9 @@
 
 This repository is a list of public roles. In addition it contains templates files for uploading a role to GitHub.
 
-Content:
+## Content
+
+Content of this repository.
 
 * `├── CODE_OF_CONDUCT.md` --- Contributor Covenant Code of Conduct.
 * `├── CONTRIBUTING.md` --- Contributing to this project.
@@ -13,6 +15,7 @@ Content:
 * `│   └── workflows`
 * `│       └── ansible-lint.yml` --- GitHub Action that performs Ansible linting.
 * `├── LICENSE` --- License file.
+* `└── README.md` --- This README file.
 
 ## Repositories
 
