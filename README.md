@@ -13,7 +13,7 @@ Content of this repository.
 * `│   ├── ISSUE_TEMPLATE.md` --- Template for a new issue.
 * `│   └── PULL_REQUEST_TEMPLATE.md` --- Template for a pull request.
 * `│   └── workflows`
-* `│       └── ansible-lint.yml` --- GitHub Action that performs Ansible linting.
+* `│       └── ansible-lint.yml` --- GitHub Action that performs Ansible linting.
 * `├── LICENSE` --- License file.
 * `└── README.md` --- This README file.
 
