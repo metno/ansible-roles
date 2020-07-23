@@ -21,7 +21,7 @@ Content of this repository.
 
 It's strongly recommended to follow [MET Ansible Style Guide](https://github.com/metno/ansible-style-guide).
 
-* *Placeholder for first role*
+* [user](https://github.com/metno/ansible-role-user) --- Configure system and normal users.
 
 <!---
 # vim: set spell spelllang=en:
