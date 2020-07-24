@@ -22,6 +22,7 @@ Content of this repository.
 It's strongly recommended to follow [MET Ansible Style Guide](https://github.com/metno/ansible-style-guide).
 
 * [user](https://github.com/metno/ansible-role-user) --- Configure system and normal users.
+* [sysctl](https://github.com/metno/ansible-role-sysctl) --- Manage sysctl config under /etc/sysctl.d/. 
 
 <!---
 # vim: set spell spelllang=en:
