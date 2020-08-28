@@ -21,9 +21,11 @@ Content of this repository.
 
 It's strongly recommended to follow [MET Ansible Style Guide](https://github.com/metno/ansible-style-guide).
 
+* [ca-certs](https://github.com/metno/ansible-role-ca-certs) --- Adding one or more extra root certificates to the machine store.
 * [chrony](https://github.com/metno/ansible-role-chrony) --- Configure time synchronization.
 * [dns](https://github.com/metno/ansible-role-dns) --- Configure DNS setup for a Linux server.
 * [firewall](https://github.com/metno/ansible-role-firewall) --- A simple firewall for Linux hosts, based on the common iptables/netfilter commands.
+* [packages](https://github.com/metno/ansible-role-packages) ---  Configure repositories and install packages on Ubuntu and CentOS.
 * [postfix](https://github.com/metno/ansible-role-postfix) --- Configure postfix to send mail via a relay client.
 * [root-keys](https://github.com/metno/ansible-role-root-keys) --- Configure root user.
 * [rsyslog](https://github.com/metno/ansible-role-rsyslog) --- Redirect all logs to one or more log servers.
